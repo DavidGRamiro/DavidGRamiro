@@ -1,5 +1,26 @@
-### Hi there 👋
+```javascript
+System.out.Println("Hi there!");
+```
 
+ 🌱 I’m currently learning Full Stack Developer in Edix.
+ 
+ 📫 If you are trying to find me, check my email on the right side!
+ 
+🚀 I really love travel and meet some diferents countries. ¿Who don´t?
+
+🐈🐈 I have two great friends living whit me, Kaiser and Sancho!
+
+🏍 Motorbikes, is one of my favorite hobbies. I´m that kind of person who hate the footbal.
+
+🌍 I´m from Madrid (Spain)💃
+
+```javascript
+ If { you = fail 
+      System.out.Println ("Try again");
+    }
+else System.out.Println("You only fail when you stop trying");
+```
+ 
 <!--
 **DavidGRamiro/DavidGRamiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
