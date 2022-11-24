@@ -16,9 +16,9 @@ System.out.Println("Hi there!");
 
 ```javascript
  If { you = fail 
-      System.out.Println ("Try again");
-    }
-else System.out.Println("You only fail when you stop trying");
+      alert("Try again")
+ }
+ else console.log("You only fail when you stop trying");
 ```
  
 <!--
