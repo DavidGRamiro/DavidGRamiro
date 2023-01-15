@@ -1,4 +1,4 @@
-```javascript
+```java
 System.out.Println("Hi there!");
 ```
 
@@ -10,16 +10,11 @@ System.out.Println("Hi there!");
 
 🐈🐈 I have two great friends living whit me, Kaiser and Sancho!
 
-🏍 Motorbikes, is one of my favorite hobbies. I´m that kind of person who hate the footbal.
+🏍 Motorbikes, is one of my favorite hobbies. I´m that kind of person who hate the football.
 
 🌍 I´m from Madrid (Spain)💃
 
-```javascript
- If { you = fail 
-      alert("Try again")
- }
- else console.log("You only fail when you stop trying");
-```
+
  
 <!--
 **DavidGRamiro/DavidGRamiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,3 +33,4 @@ Here are some ideas to get you started:
 
 
 ![David GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidGRamiro&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGRamiro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
