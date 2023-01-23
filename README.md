@@ -4,7 +4,7 @@
 
  🌱 I’m Web Developer
  
- 📫 If you are trying to find me, check my email on the right side!
+ 📫 If you are trying to find me, check my email on the left side!
  
 🚀 I really love travel and meet some people from diferents countries. ¿Who don´t?
 
