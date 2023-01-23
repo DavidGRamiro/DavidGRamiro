@@ -22,7 +22,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logocolor=angular)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -49,3 +49,5 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/davidgramiro/count.svg" />
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F4D03F&height=120&section=footer"/>
