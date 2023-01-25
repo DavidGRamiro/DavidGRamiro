@@ -8,7 +8,7 @@
  
 🚀 I really love travel and meet some people from diferents countries. ¿Who don´t?
 
-🐈🐈 I have two great friends living whit me, Kaiser and Sancho!
+🐈🐈 I have two great friends living whith me, Kaiser and Sancho!
 
 🏍 Motorbikes, is one of my favorite hobbies. I´m that kind of person who hate the football.
 
