@@ -41,7 +41,7 @@
 <br/>
 
 
-https://www.codewars.com/users/DavidGRamiro/badges/large
+[![Typing SVG](https://www.codewars.com/users/DavidGRamiro/badges/large)
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/davidgramiro/count.svg" />
