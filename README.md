@@ -41,9 +41,7 @@
 <br/>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DavidGRamiro&bg_color=0d1117&color=c4ce3b&line=f9e03e&point=ee1b1b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
+https://www.codewars.com/users/DavidGRamiro/badges/large
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/davidgramiro/count.svg" />
