@@ -1,73 +1,74 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F4D03F&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=150&section=header&text=David%20Gonz%C3%A1lez%20Ramiro&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer&descAlignY=58&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=20&duration=3000&pause=1000&color=F4D03F&width=435&lines=Hello+!+I'm+David+Gonz%C3%A1lez;I'm+from+Madrid;I'm+a+Full+Stack+Developer)](https://git.io/typing-svg)
+<div align="center">
 
-## Hi there, I'm David González Ramiro 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=620&lines=Software+Developer;Python+%26+Django+Backend;Angular+Frontend;Building+clean+and+scalable+web+apps)](https://git.io/typing-svg)
 
-🌱 Full Stack Web Developer based in Madrid.
+I design and build end-to-end web applications, from robust **Python / Django** APIs
+to fast and maintainable **Angular** interfaces.
 
-📫 Want to reach me? Connect with me on [LinkedIn](https://www.linkedin.com/in/david-gonzalez-9096821a0/).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-gonzalez-9096821a0/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DavidGRamiro)
+[![Profile views](https://komarev.com/ghpvc/?username=DavidGRamiro&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS)](https://github.com/DavidGRamiro)
 
-🚀 I love traveling and meeting people from different countries. Who doesn't?
+</div>
 
-🐈🐈 I have two great friends living with me: Kaiser and Sancho!
+---
 
-🏍 Motorbikes are one of my favorite hobbies. I'm the kind of person who hates football.
+## About
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+Software Developer based in Madrid, focused on full stack development. I enjoy turning
+complex requirements into simple, well-structured products: clean architecture on the
+backend with **Python and Django**, and responsive, component-driven UIs with **Angular**.
+I care about code quality, performance and developer experience, and I build daily with
+AI-assisted tooling.
 
-- 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396)
-  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=SpringBoot&logoColor=008F39)
-  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django&logoColor=66FF00)
+---
 
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+## Tech Stack
 
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+<div align="center">
 
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+<img src="https://skillicons.dev/icons?i=python,django,angular,ts,js,html,css,bootstrap,nodejs,mysql,mongodb,git,github&theme=dark&perline=7" alt="Tech stack" />
 
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+</div>
 
-<h3> 🚀 &nbsp;Featured Projects</h3>
+---
 
-- 🛵 **[Riders-client](https://github.com/DavidGRamiro/Riders-client)** — Angular + TypeScript frontend for the Riders platform.
-- 🐍 **[Riders-server](https://github.com/DavidGRamiro/Riders-server)** — Python backend powering the Riders platform.
-- 👶 **[Frontend-babyline](https://github.com/DavidGRamiro/Frontend-babyline)** — TypeScript web app for baby care.
-- ⚙️ **[Backend-baby](https://github.com/DavidGRamiro/Backend-baby)** — Python API for the Babyline project.
-- ⛅ **[weather.-app](https://github.com/DavidGRamiro/weather.-app)** — TypeScript weather application.
-- 🎓 **[Al3-Angular](https://github.com/DavidGRamiro/Al3-Angular)** — Angular learning project.
-- 🧩 **[Microservices-REST](https://github.com/DavidGRamiro/Microservices-REST)** — REST microservices built with Java.
+## Tools
 
-<h3> 📊 &nbsp;GitHub Stats</h3>
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DavidGRamiro&show_icons=true&hide_border=true&title_color=F4D03F&icon_color=F4D03F&text_color=333333" alt="David's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGRamiro&layout=compact&hide_border=true&title_color=F4D03F&text_color=333333" alt="Top languages" />
-</p>
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-111827?style=for-the-badge&logo=gnometerminal&logoColor=22D3EE)
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DavidGRamiro&show_icons=true&hide_border=true&theme=tokyonight&title_color=22D3EE&icon_color=6366F1&text_color=c9d1d9&bg_color=0D1117" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGRamiro&layout=compact&hide_border=true&theme=tokyonight&title_color=22D3EE&text_color=c9d1d9&bg_color=0D1117" alt="Top languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=DavidGRamiro&hide_border=true&background=0D1117&ring=6366F1&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak" />
+
+</div>
 
 <br/>
 
-![Codewars](https://www.codewars.com/users/DavidGRamiro/badges/large)
+<div align="center">
 
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/davidgramiro/count.svg" alt="Visitor count" />
-</p>
+[![Codewars](https://www.codewars.com/users/DavidGRamiro/badges/large)](https://www.codewars.com/users/DavidGRamiro)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F4D03F&height=120&section=footer"/>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=120&section=footer" />
